@@ -103,11 +103,11 @@ console.log("");
 
 const inverseLinkQueryResult = Users.createQuery({
 	name: 1,
-	membersOf: {
+	memberOf: {
 		name: 1,
 		description: 1
 	},
-	adminsOf: {
+	adminOf: {
 		name: 1,
 		description: 1
 	}
