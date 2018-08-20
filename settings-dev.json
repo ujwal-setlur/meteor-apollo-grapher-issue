@@ -3,7 +3,7 @@
     "users": [
       {
         "username": "ujwal",
-        "email": "ujwal@meteor-apollo-app.com",
+        "email": "ujwal@meteor-apollo-grapher.com",
         "password": "password",
         "profile": {
           "name": "Ujwal Setlur",
@@ -13,7 +13,7 @@
       },
       {
         "username": "vineet",
-        "email": "user1@meteor-apollo-app.com",
+        "email": "vineet@meteor-apollo-grapher.com",
         "password": "password",
         "profile": {
           "name": "Vineet Chikarmane",
