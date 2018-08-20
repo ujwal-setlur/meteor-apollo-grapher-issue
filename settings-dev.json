@@ -28,30 +28,6 @@
 				"description": "Both are admin",
 				"members": ["ujwal", "vineet"],
 				"admins": ["ujwal", "vineet"]
-			},
-			{
-				"name": "Ujwal and Vineet - 2",
-				"description": "Ujwal is admin",
-				"members": ["ujwal", "vineet"],
-				"admins": ["ujwal"]
-			},
-			{
-				"name": "Ujwal and Vineet - 3",
-				"description": "Vineet is admin",
-				"members": ["ujwal", "vineet"],
-				"admins": ["vineet"]
-			},			
-			{
-				"name": "Ujwal",
-				"description": "Ujwal is admin",
-				"members": ["ujwal"],
-				"admins": ["ujwal"]
-			},
-			{
-				"name": "Vineet",
-				"description": "Vineet is admin",
-				"members": ["vineet"],
-				"admins": ["vineet"]
 			}
 		]
   }
