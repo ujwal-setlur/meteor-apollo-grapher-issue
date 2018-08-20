@@ -14,7 +14,7 @@ Groups.addLinks({
 });
 
 Users.addLinks({
-  "groupMembers": {
+  "membersOf": {
     collection: Groups,
     inversedBy: "members"
   }
@@ -30,7 +30,7 @@ Groups.addLinks({
 });
 
 Users.addLinks({
-  "groupAdmins": {
+  "adminsOf": {
     collection: Groups,
     inversedBy: "admins"
   }
